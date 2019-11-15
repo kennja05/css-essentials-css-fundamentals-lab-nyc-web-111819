@@ -38,3 +38,7 @@ nav {
   float:left;
   background-color: red
 }
+
+#details div {
+  float:left;
+}
