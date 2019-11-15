@@ -41,5 +41,6 @@ nav {
 
 #details div {
   float:left;
-  margin:auto;
+  margin-left:auto;
+  margin-right:auto;
 }
